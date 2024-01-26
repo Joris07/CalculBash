@@ -29,6 +29,7 @@ read nbTwo
 
 echo " "
 
+# Si le résultat = 1 on fait une addition
 if test $operation -eq 1
 then echo resultat : $((nbOne + nbTwo))
 
