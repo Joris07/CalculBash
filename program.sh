@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Bienvenue dans la Calculatrice en Bash"
+echo "Bienvenue dans ma Calculatrice en Bash"
 
 continue=1
 while test $continue -eq 1
