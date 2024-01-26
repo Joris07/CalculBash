@@ -33,6 +33,7 @@ echo " "
 if test $operation -eq 1
 then echo resultat : $((nbOne + nbTwo))
 
+# Si le résultat = 2 on fait une soustraction
 elif test $operation -eq 2
 then echo resultat : $((nbOne - nbTwo))
 
