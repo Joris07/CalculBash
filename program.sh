@@ -1,6 +1,8 @@
 #! /bin/bash
 
-echo "Bienvenue dans ma Calculatrice en Bash"
+# Ce programme a pour objectif de faire des additions, des soustractions, des multiplications et des divisions en ligne de commande"
+
+echo "Bienvenue dans la meilleure Calculatrice en Bash du monde"
 
 continue=1
 while test $continue -eq 1
@@ -33,6 +35,7 @@ echo " "
 if test $operation -eq 1
 then echo resultat : $((nbOne + nbTwo))
 
+# Si le résultat = 2 on fait une soustraction
 elif test $operation -eq 2
 then echo resultat : $((nbOne - nbTwo))
 
