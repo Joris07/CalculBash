@@ -2,7 +2,7 @@
 
 # Ce programme a pour objectif de faire des additions, des soustractions, des multiplications et des divisions en ligne de commande"
 
-echo "Bienvenue dans la Calculatrice en Bash"
+echo "Bienvenue dans la meilleure Calculatrice en Bash du monde"
 
 continue=1
 while test $continue -eq 1
