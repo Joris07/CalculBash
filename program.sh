@@ -8,7 +8,7 @@ do
 
 echo " "
 
-echo "Selectionnez une opération : "
+echo "Sélectionnez une opération : "
 echo "1. Addition"
 echo "2. Soustraction"
 echo "3. Multiplication"
