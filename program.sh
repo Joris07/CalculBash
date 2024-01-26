@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# Ce programme a pour objectif de faire des additions, des soustractions, des multiplications et des divisions en ligne de commande"
+
 echo "Bienvenue dans la Calculatrice en Bash"
 
 continue=1
