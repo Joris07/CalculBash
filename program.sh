@@ -45,6 +45,7 @@ then echo resultat : $((nbOne / nbTwo))
 else echo "Veuillez indiquer une opération valide"
 fi
 
+#Pull request d'Antonin
 echo " "
 echo "Voulez-vous effectuer une autre opération ? (Oui/Non) :"
 read response
